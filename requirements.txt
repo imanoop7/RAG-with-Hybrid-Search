@@ -1,0 +1,9 @@
+langchain 
+rank_bm25 
+pypdf 
+unstructured 
+chromadb
+unstructured['pdf'] 
+unstructured
+langchain-community
+sentence-transformers
