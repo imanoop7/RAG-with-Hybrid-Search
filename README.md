@@ -21,7 +21,7 @@ To get started with this project:
    git clone https://github.com/imanoop7/RAG-with-Hybrid-Search.git
    cd RAG-with-Hybrid-Search
 
-2. Install the necessary dependencies (see requirements.txt).
+2. Install the necessary dependencies (requirements.txt).
 3. Explore the notebooks and Python script to understand the hybrid search approach.
 
 ## Usage
